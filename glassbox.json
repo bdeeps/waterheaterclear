@@ -1,0 +1,105 @@
+{
+  "slug": "waterheaterclear",
+  "box": 22,
+  "date": "2026-10-02",
+  "title": "WaterHeaterClear",
+  "question": "How does a water heater (geyser) work?",
+  "hook": "A geyser is a flask with a 2 kW heater inside, and it quietly uses physics you can feel in the shower: hot water floats, water expands, and a magnesium rod dies to save the tank. Take one apart in 3D.",
+  "thumbText": "HOW A GEYSER WORKS",
+  "field": "physics",
+  "minutes": 12,
+  "tags": [
+    "geyser",
+    "water heater",
+    "hot water",
+    "specific heat",
+    "convection",
+    "thermostat",
+    "corrosion",
+    "solar water heater",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A flask with a heater inside",
+      "text": "A storage geyser is a steel tank lined with glass, wrapped in foam and hung on the wall. A 2 kW heating element pokes up from the bottom, a thermostat switches it off at the temperature you set, and hot water leaves from the top."
+    },
+    {
+      "title": "Water is hard to heat",
+      "text": "Every litre needs 4,180 joules for each degree. Warming 15 L from 20 to 45 °C takes 1.57 million joules: about 14 minutes at 2 kW, and nearly twice as long in winter, when the cold water starts colder."
+    },
+    {
+      "title": "Hot water floats",
+      "text": "Water at 60 °C is about 1.5% lighter than at 20 °C, so the tank sorts itself into layers. Cold water enters at the bottom and pushes the hot layer out of the top, which is why the shower stays hot until it suddenly goes cold."
+    },
+    {
+      "title": "Four things stand guard",
+      "text": "The thermostat does the everyday work. A thermal cut-out trips at about 85 to 90 °C if it fails, a relief valve lets out the water that expands as it heats, and an earthed body plus an RCCB cut the power if current leaks."
+    },
+    {
+      "title": "A rod that dies for the tank",
+      "text": "A magnesium anode corrodes instead of the steel, so it has to be replaced every year or two. Hard water adds a second problem: calcium carbonate scale on the element, which makes it run hotter and burn out."
+    },
+    {
+      "title": "Cheaper hot water",
+      "text": "A hot tank leaks heat all day, which is what India's BEE star label measures. Switching it off helps; a heat pump gives about three units of heat per unit of electricity, and a rooftop solar heater can do most of the work for free."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Specific heat",
+      "def": "The energy needed to warm 1 kg of a substance by 1 °C. For water, about 4,180 joules."
+    },
+    {
+      "term": "Heating element",
+      "def": "A resistance wire packed in powder inside a metal tube. Current through it makes heat: a 2 kW element at 230 V is about 26 Ω."
+    },
+    {
+      "term": "Stratification",
+      "def": "Water settling into layers by temperature, hottest on top, because warm water is less dense."
+    },
+    {
+      "term": "Thermocline",
+      "def": "The thin boundary between hot water above and cold water below in a tank."
+    },
+    {
+      "term": "Thermostat",
+      "def": "A switch worked by temperature that turns the heater off at the set point and back on when the water cools."
+    },
+    {
+      "term": "Pressure-relief valve",
+      "def": "A spring-loaded valve that lets water out when heating makes it expand and the pressure climbs too high."
+    },
+    {
+      "term": "Sacrificial anode",
+      "def": "A magnesium rod that corrodes on purpose, protecting the steel tank it is bolted into."
+    },
+    {
+      "term": "Scale",
+      "def": "Calcium carbonate that comes out of hard water when it is heated and coats the element."
+    },
+    {
+      "term": "Standing loss",
+      "def": "Heat a full, hot tank loses in a day with no water drawn; the basis of India's BEE star rating for geysers."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "waterheaterclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

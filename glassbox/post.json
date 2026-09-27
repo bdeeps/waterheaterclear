@@ -1,0 +1,126 @@
+{
+  "slug": "waterheaterclear",
+  "box": 22,
+  "question": "How does a water heater (geyser) work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/waterheaterclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/waterheaterclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "4,500 years from Roman furnaces and bronze boilers to the geyser on your bathroom wall, the solar tank on your roof and the heat pump that pulls warmth from the air.\n\n80 BCE: Fire under the floor\n1868: The first geyser\n1889: A tank that keeps itself hot\n1891: The Climax: sunshine in a box\n1917: An electric water heater with a thermostat\n1936: Glass inside the tank\n\nThe full story, with 27 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/waterheaterclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/waterheaterclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #geyser #waterheater #hotwater #specificheat #convection #thermostat #history",
+      "youtube": {
+        "title": "The history of the water heater in 45 seconds #shorts",
+        "description": "4,500 years from Roman furnaces and bronze boilers to the geyser on your bathroom wall, the solar tank on your roof and the heat pump that pulls warmth from the air.\n\n80 BCE · Fire under the floor (Sergius Orata (attributed))\n1868 · The first geyser (Benjamin Waddy Maughan)\n1889 · A tank that keeps itself hot (Edwin Ruud)\n1891 · The Climax: sunshine in a box (Clarence Kemp)\n1917 · An electric water heater with a thermostat (Ida Forbes)\n1936 · Glass inside the tank (A. O. Smith)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/waterheaterclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/waterheaterclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a water heater (geyser) work?\n\nA geyser is a flask with a 2 kW heater inside, and it quietly uses physics you can feel in the shower: hot water floats, water expands, and a magnesium rod dies to save the tank. Take one apart in 3D.\n\n→ A storage geyser is a steel tank in foam, with a 2 kW heating rod inside.\n→ Instant geysers hold just 3 litres; gas geysers heat water as it flows.\n→ Warming 15 L from 20 to 45 °C takes 1.57 million joules: about 14 minutes at 2 kW.\n→ Winter water starts colder, so the same geyser takes about twice as long.\n→ Hot water is 1.5% lighter than cold, so it floats in a layer on top.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/waterheaterclear (link in bio)\n\nBox No. 022 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #geyser #waterheater #hotwater #specificheat #convection #thermostat #corrosion #solarwaterheater #threejs",
+    "carousel": "Swipe through: How does a water heater (geyser) work?\n\nA geyser is a flask with a 2 kW heater inside, and it quietly uses physics you can feel in the shower: hot water floats, water expands, and a magnesium rod dies to save the tank. Take one apart in 3D.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/waterheaterclear (link in bio).\n\nBox No. 022 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #geyser #waterheater #hotwater #specificheat #convection #thermostat",
+    "youtube": {
+      "title": "How does a water heater (geyser) work? #shorts",
+      "description": "A geyser is a flask with a 2 kW heater inside, and it quietly uses physics you can feel in the shower: hot water floats, water expands, and a magnesium rod dies to save the tank. Take one apart in 3D.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/waterheaterclear/\n⌘ Source code (MIT): https://github.com/bdeeps/waterheaterclear\n\nBox No. 022 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a water heater (geyser) work? (interactive explainer)",
+      "description": "A geyser is a flask with a 2 kW heater inside, and it quietly uses physics you can feel in the shower: hot water floats, water expands, and a magnesium rod dies to save the tank. Take one apart in 3D.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/waterheaterclear/\n⌘ Source code (MIT): https://github.com/bdeeps/waterheaterclear\n\nIn this video:\n• A flask with a heater inside. A storage geyser is a steel tank lined with glass, wrapped in foam and hung on the wall.\n• Water is hard to heat. Every litre needs 4,180 joules for each degree.\n• Hot water floats. Water at 60 °C is about 1.5% lighter than at 20 °C, so the tank sorts itself into layers.\n• Four things stand guard. The thermostat does the everyday work.\n• A rod that dies for the tank. A magnesium anode corrodes instead of the steel, so it has to be replaced every year or two.\n• Cheaper hot water. A hot tank leaks heat all day, which is what India's BEE star label measures.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a water heater (geyser) work?\n\nA geyser is a flask with a 2 kW heater inside, and it quietly uses physics you can feel in the shower: hot water floats, water expands, and a magnesium rod dies to save the tank.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/waterheaterclear/",
+    "linkedin": "How does a water heater (geyser) work?\n\nA geyser is a flask with a 2 kW heater inside, and it quietly uses physics you can feel in the shower: hot water floats, water expands, and a magnesium rod dies to save the tank. Take one apart in 3D.\n\n1. A flask with a heater inside\n2. Water is hard to heat\n3. Hot water floats\n4. Four things stand guard\n5. A rod that dies for the tank\n6. Cheaper hot water\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 022 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/waterheaterclear/\nCode: https://github.com/bdeeps/waterheaterclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-27T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-27T10:19:17.758Z"
+}

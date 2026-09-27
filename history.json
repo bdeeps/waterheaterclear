@@ -1,0 +1,878 @@
+{
+  "title": "The history of the water heater",
+  "tagline": "4,500 years from Roman furnaces and bronze boilers to the geyser on your bathroom wall, the solar tank on your roof and the heat pump that pulls warmth from the air.",
+  "intro": "For most of history, hot water meant a fire, a pot and a lot of work. The Romans heated whole baths with furnaces, but homes waited until the 1800s, when gas let a London painter heat water as it flowed and called his machine a geyser. Engineers then added tanks that kept water hot, thermostats that switched the heat on and off by themselves, electric coils, glass linings against rust and panels that catch the sun. Today India and the world are racing to make hot water safer and cheaper, with star labels, solar rules and heat pumps.",
+  "eras": [
+    {
+      "id": "fire",
+      "name": "Fire, pots and Roman baths",
+      "from": -2500,
+      "to": 1800,
+      "color": "#c49bff",
+      "summary": "Water is heated over open fires. The Romans build furnaces under their baths and bronze boilers that feed hot, warm and cold water in turn."
+    },
+    {
+      "id": "gas",
+      "name": "Gas geysers and the first tanks",
+      "from": 1820,
+      "to": 1900,
+      "color": "#ffb547",
+      "summary": "Town gas reaches homes. Inventors heat water as it flows, then store it in tanks that switch the flame on and off by themselves."
+    },
+    {
+      "id": "sun",
+      "name": "Hot water from the sun",
+      "from": 1890,
+      "to": 1990,
+      "color": "#5ce1a9",
+      "summary": "Glass boxes and black pipes on roofs heat water for free. Solar heaters boom in California and Florida, then Israel, Barbados and India turn to the sun."
+    },
+    {
+      "id": "electric",
+      "name": "Electric heaters and tougher tanks",
+      "from": 1900,
+      "to": 1960,
+      "color": "#ff7a59",
+      "summary": "New wire that glows without melting makes electric heating practical. Thermostats, coil heaters, glass-lined tanks and heat pumps arrive."
+    },
+    {
+      "id": "india",
+      "name": "Geysers for India",
+      "from": 1984,
+      "to": 2016,
+      "color": "#7aa2ff",
+      "summary": "India backs solar water heaters, Bengaluru makes them compulsory, doctors warn about gas geysers in closed bathrooms and star labels arrive for electric geysers."
+    },
+    {
+      "id": "clean",
+      "name": "Cleaner, smarter hot water",
+      "from": 2000,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Heat pumps that borrow warmth from the air, huge solar markets in China and India, and new rules that push water heaters to waste less energy."
+    }
+  ],
+  "events": [
+    {
+      "year": -2500,
+      "date": "c. 2500 BCE",
+      "era": "fire",
+      "art": "waterdrop",
+      "title": "A great bath in the Indus Valley",
+      "who": "People of the Indus Valley Civilisation",
+      "where": "Mohenjo-daro (today in Sindh, Pakistan)",
+      "country": "Pakistan",
+      "text": "Builders made a waterproof brick pool about 12 m long and 7 m wide, filled from wells and emptied by drains. It is one of the oldest public water tanks known. As far as we know, its water was not heated.",
+      "why": "It shows how long bathing has mattered in South Asia, long before anyone could heat water on tap.",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": -80,
+      "date": "c. 80 BCE (attributed)",
+      "era": "fire",
+      "art": "flame",
+      "key": true,
+      "title": "Fire under the floor",
+      "who": "Sergius Orata (attributed)",
+      "where": "Campania, Roman Republic (today Italy)",
+      "country": "Italy",
+      "text": "Roman baths were warmed by a hypocaust: a furnace pushed hot gases through a hollow space under a raised floor and up through the walls. The writer Vitruvius credited the businessman Sergius Orata with the idea, though some think it is older. Orata became famous for his heated ‘hanging baths’.",
+      "why": "Burning fuel to heat water and rooms in one system is the idea behind every gas and oil water heater.",
+      "box": "heating",
+      "sources": [
+        7,
+        9
+      ]
+    },
+    {
+      "year": -25,
+      "date": "c. 25 BCE",
+      "era": "fire",
+      "art": "burner",
+      "title": "Three boilers in a row",
+      "who": "Vitruvius",
+      "where": "Rome, Roman Republic",
+      "country": "Italy",
+      "text": "In his book on architecture, Vitruvius described three bronze vessels over a bath furnace: one for hot water, one for warm and one for cold. When hot water was drawn off, warm water flowed in to replace it, and cold water refilled the warm.",
+      "why": "Feeding cold water in as hot water goes out, without mixing the two too much, is still how a storage geyser works.",
+      "box": "stratification",
+      "sources": [
+        8,
+        7
+      ]
+    },
+    {
+      "year": 1824,
+      "date": "1824",
+      "era": "gas",
+      "art": "molecule",
+      "title": "A metal that rusts so another doesn't",
+      "who": "Humphry Davy",
+      "where": "Royal Society, London, England",
+      "country": "United Kingdom",
+      "text": "The Royal Navy's ships were covered in copper that slowly corroded in seawater. Davy showed that fixing a more reactive metal to the copper made that metal corrode instead, and he tested it on HMS Samarang.",
+      "why": "The same trick protects geyser tanks today: a magnesium ‘sacrificial anode’ rod slowly wears away so the steel tank does not rust.",
+      "box": "corrosion",
+      "sources": [
+        16,
+        17
+      ]
+    },
+    {
+      "year": 1868,
+      "date": "1868",
+      "era": "gas",
+      "art": "geyser",
+      "key": true,
+      "title": "The first geyser",
+      "who": "Benjamin Waddy Maughan",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Maughan, a painter, invented a water heater for the home that burned gas instead of wood or coal. Cold water ran through pipes heated by the gas flame and came out hot, straight into the bath. It had no flue to carry the fumes away, so it could be dangerous.",
+      "why": "It was the first instant water heater for homes, and its name ‘geyser’ is still what much of South Asia calls a water heater.",
+      "box": "heating",
+      "sources": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "year": 1878,
+      "date": "1878",
+      "era": "gas",
+      "art": "word",
+      "title": "A word from Iceland",
+      "who": "Maughan's Patent Geyser",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "The earliest record of ‘geyser’ meaning a water heater, in the Oxford English Dictionary, is an 1878 advertisement for ‘Maughan's Patent Geyser’. The word comes from Geysir, a hot spring in Iceland whose name means ‘gusher’.",
+      "why": "A hot spring gave its name to a machine, and the name travelled across the British Empire to India.",
+      "sources": [
+        3,
+        2,
+        0
+      ]
+    },
+    {
+      "year": 1889,
+      "date": "1889 (patented 1890)",
+      "era": "gas",
+      "art": "thermometer",
+      "key": true,
+      "title": "A tank that keeps itself hot",
+      "who": "Edwin Ruud",
+      "where": "Pittsburgh, Pennsylvania, USA",
+      "country": "United States",
+      "text": "Ruud, a Norwegian engineer who had moved to Pittsburgh, designed an automatic gas water heater with a storage tank. Metal rods that grew longer as they warmed worked a valve, turning the gas flame down when the water was hot and up when it cooled. He later founded the Ruud Manufacturing Company.",
+      "why": "A tank of water kept hot by its own switch is the plan of almost every storage water heater since.",
+      "box": "thermostat",
+      "sources": [
+        4,
+        5,
+        0
+      ]
+    },
+    {
+      "year": 1891,
+      "date": "28 April 1891",
+      "era": "sun",
+      "art": "heatwaves",
+      "key": true,
+      "title": "The Climax: sunshine in a box",
+      "who": "Clarence Kemp",
+      "where": "Baltimore, Maryland, USA",
+      "country": "United States",
+      "text": "Kemp patented a solar water heater made of iron tanks inside a glass-topped box on the roof. Sunlight passed through the glass, and the box kept the wind from stealing the heat. Sold as the Climax, it became popular in sunny southern California: by 1897 about a third of homes in Pasadena used one.",
+      "why": "It was the world's first commercial solar water heater.",
+      "box": "energy",
+      "sources": [
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "year": 1894,
+      "date": "1894 (patent applied)",
+      "era": "gas",
+      "art": "flame",
+      "title": "A gas heater from a gas tester",
+      "who": "Hugo Junkers",
+      "where": "Dessau, Germany",
+      "country": "Germany",
+      "text": "Junkers had built a calorimeter, a device that measured how much heat a gas gave off by warming flowing water. He used the same idea to make a gas bath heater, then refined it into a heater that warmed water as it flowed. In 1895 he founded Junkers & Co. to make them.",
+      "why": "Heating water only as it flows, with no tank, is how instant gas and electric geysers still work.",
+      "box": "heating",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1906,
+      "date": "1906",
+      "era": "electric",
+      "art": "resistor",
+      "title": "A wire that glows without melting",
+      "who": "Albert Marsh",
+      "where": "USA",
+      "country": "United States",
+      "text": "Marsh patented nichrome, a mix of nickel and chromium. It resists electricity, so it gets very hot when a current flows, but it does not melt or crumble quickly in air.",
+      "why": "Nichrome-type wire inside a metal tube is the heating element in most electric geysers.",
+      "box": "heating",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1909,
+      "date": "1909",
+      "era": "sun",
+      "art": "tap",
+      "title": "Hot water day and night",
+      "who": "William J. Bailey",
+      "where": "California, USA",
+      "country": "United States",
+      "text": "Bailey split the solar heater in two: thin pipes on the roof to catch the sun, and an insulated tank that kept the water hot. Warm water rose on its own from the collector into the tank. His company sold more than 4,000 of these ‘Day and Night’ heaters by 1918.",
+      "why": "Hot water rising above cold is how solar heaters and storage geysers keep a hot layer ready at the top.",
+      "box": "stratification",
+      "sources": [
+        20,
+        21
+      ]
+    },
+    {
+      "year": 1917,
+      "date": "25 December 1917",
+      "era": "electric",
+      "art": "plug",
+      "key": true,
+      "title": "An electric water heater with a thermostat",
+      "who": "Ida Forbes",
+      "where": "Los Angeles, California, USA",
+      "country": "United States",
+      "text": "Forbes was granted a patent for an electric water heater. A resistance wire heated the water, and a mercury thermometer with a contact inside switched the power off at the temperature you chose, then on again as the water cooled.",
+      "why": "Heating with electricity instead of flames removed fumes and fire from the bathroom, and the automatic switch is today's geyser thermostat.",
+      "box": "thermostat",
+      "sources": [
+        6,
+        0
+      ]
+    },
+    {
+      "year": 1924,
+      "date": "1924",
+      "era": "electric",
+      "art": "coil",
+      "title": "The coil immersion heater",
+      "who": "Theodor Stiebel",
+      "where": "Berlin, Germany",
+      "country": "Germany",
+      "text": "Stiebel founded the company Eltron and showed a coil immersion heater that warmed up and cooled down quickly. In 1927 or 1928 the company began making a small 1,000-watt electric instant water heater.",
+      "why": "Electric coils placed right in the water became the heart of both storage and instant electric geysers.",
+      "box": "heating",
+      "sources": [
+        13,
+        14
+      ]
+    },
+    {
+      "year": 1936,
+      "date": "1936",
+      "era": "electric",
+      "art": "building",
+      "key": true,
+      "title": "Glass inside the tank",
+      "who": "A. O. Smith",
+      "where": "Milwaukee, Wisconsin, USA",
+      "country": "United States",
+      "text": "A. O. Smith had learned to fuse glass onto steel to make huge tanks for breweries. In 1936 it patented a glass-lined water heater, and in 1939 it began mass-producing them for homes.",
+      "why": "A thin coat of glass keeps hot water off the steel, so tanks last many more years before they rust and leak.",
+      "box": "corrosion",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1941,
+      "date": "1920s–1941",
+      "era": "sun",
+      "art": "earth",
+      "title": "Florida's sunshine boom",
+      "who": "Solar water heater makers",
+      "where": "Florida, USA",
+      "country": "United States",
+      "text": "When cheap natural gas arrived in southern California, solar sales there fell, but Florida took up the idea. By 1941 one Florida company had installed more than 60,000 heaters, and over half the people of Miami heated their water with the sun.",
+      "why": "It proved solar hot water could work for a whole city, until cheap electricity pushed it aside.",
+      "box": "energy",
+      "sources": [
+        20,
+        21
+      ]
+    },
+    {
+      "year": 1950,
+      "date": "1937–1950s",
+      "era": "electric",
+      "art": "heatwaves",
+      "title": "Borrowing heat from the air",
+      "who": "Early heat pump inventors, Hotpoint and Harvey-Whipple",
+      "where": "USA",
+      "country": "United States",
+      "text": "A heat pump works like a fridge run backwards: it pulls heat from the air and pumps it into water. A 1937 US heat pump patent is often named as the first, and in the 1950s Hotpoint and Harvey-Whipple are credited with some of the first heat pump water heaters sold.",
+      "why": "Moving heat instead of making it gives several units of heat for each unit of electricity used.",
+      "box": "energy",
+      "sources": [
+        24
+      ]
+    },
+    {
+      "year": 1953,
+      "date": "1953",
+      "era": "sun",
+      "art": "leaf",
+      "title": "A solar heater for a young country",
+      "who": "Levi Yissar",
+      "where": "Israel",
+      "country": "Israel",
+      "text": "Fuel was so short in 1950s Israel that the government banned heating water between 10 pm and 6 am. The engineer Levi Yissar built a solar water heater at home and in 1953 started NerYah, Israel's first company making them. By 1967 about 50,000 had been sold.",
+      "why": "It showed a country short of fuel could get hot water from its rooftops.",
+      "box": "energy",
+      "sources": [
+        22,
+        21
+      ]
+    },
+    {
+      "year": 1974,
+      "date": "1972–1974",
+      "era": "sun",
+      "art": "heatwaves",
+      "title": "Barbados turns to the sun",
+      "who": "James Husbands and Solar Dynamics",
+      "where": "Barbados",
+      "country": "Barbados",
+      "text": "Husbands set up Solar Dynamics, the first solar water heater company in Barbados, just as world oil prices soared. With government support, including tax breaks, solar water heaters spread across the island.",
+      "why": "Barbados became one of the world leaders in solar water heaters per person.",
+      "sources": [
+        23,
+        39,
+        21
+      ]
+    },
+    {
+      "year": 1980,
+      "date": "1980",
+      "era": "sun",
+      "art": "word",
+      "key": true,
+      "title": "A law for sunny roofs",
+      "who": "Government of Israel",
+      "where": "Israel",
+      "country": "Israel",
+      "text": "After the oil crises of the 1970s, Israel required solar water heaters on all new homes, except tall towers without enough roof space. Solar heating became a normal part of Israeli homes.",
+      "why": "It became one of the best-known examples of a country making solar hot water the normal choice.",
+      "box": "energy",
+      "sources": [
+        21,
+        22
+      ]
+    },
+    {
+      "year": 1984,
+      "date": "c. 1984",
+      "era": "india",
+      "art": "earth",
+      "title": "India backs solar hot water",
+      "who": "Government of India",
+      "where": "India",
+      "country": "India",
+      "text": "India's first renewable energy programme began installing solar water heaters on government buildings, first paid for in full and then with smaller subsidies. From 1991 the government switched to cheap loans through banks, and sales grew fast in states like Karnataka and Maharashtra.",
+      "why": "Help from the government and banks built India's solar water heater industry.",
+      "box": "energy",
+      "sources": [
+        31
+      ]
+    },
+    {
+      "year": 2001,
+      "date": "May 2001",
+      "era": "clean",
+      "art": "molecule",
+      "key": true,
+      "title": "EcoCute: a heat pump that runs on carbon dioxide",
+      "who": "CRIEPI, TEPCO, Denso and Corona",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Japanese researchers and companies launched the first home heat pump water heater using carbon dioxide as its refrigerant. It pulls heat from outdoor air, mostly at night, and stores the hot water in a tank. More than 4.6 million had been shipped by March 2015.",
+      "why": "It showed heat pumps could make very hot water for homes with far less electricity, using a gas that does not harm the ozone layer.",
+      "box": "energy",
+      "sources": [
+        25,
+        26
+      ]
+    },
+    {
+      "year": 2007,
+      "date": "2007–2009",
+      "era": "india",
+      "art": "building",
+      "title": "Bengaluru makes solar heaters compulsory",
+      "who": "Government of Karnataka and BESCOM",
+      "where": "Bengaluru, Karnataka, India",
+      "country": "India",
+      "text": "From 2007, Karnataka required solar water heaters on new homes of 600 square feet or more built on plots of at least 1,200 square feet. From April 2009, Bengaluru's power company BESCOM refused regular connections to homes without one.",
+      "why": "Strict checking turned Bengaluru into a model city for solar water heating.",
+      "box": "energy",
+      "sources": [
+        32
+      ]
+    },
+    {
+      "year": 2010,
+      "date": "2010",
+      "era": "india",
+      "art": "building",
+      "title": "Global geyser makers build in India",
+      "who": "A. O. Smith, Ariston and Racold",
+      "where": "Bengaluru and Pune, India",
+      "country": "India",
+      "text": "In 2010 A. O. Smith, the company behind the glass-lined tank, opened a water heater factory in Bengaluru and later made it much bigger. Italy's Ariston had already bought Racold, then India's largest water heater maker, in the 1990s.",
+      "why": "India had become one of the world's big markets for geysers.",
+      "sources": [
+        15,
+        38
+      ]
+    },
+    {
+      "year": 2013,
+      "date": "2013",
+      "era": "india",
+      "art": "person",
+      "title": "‘Gas geyser syndrome’",
+      "who": "Doctors at Sir Ganga Ram Hospital",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "Neurologists described 26 people who collapsed, had fits or were poisoned by carbon monoxide while bathing in closed bathrooms with gas geysers that had no flue. The cases came in the winters of 2008 to 2010.",
+      "why": "It warned families that a gas geyser needs a flue or good ventilation, the same danger Maughan's geyser had in 1868.",
+      "sources": [
+        36
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "1 July 2015",
+      "era": "india",
+      "art": "trophy",
+      "key": true,
+      "title": "Star labels become compulsory for geysers",
+      "who": "Bureau of Energy Efficiency",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "India's Bureau of Energy Efficiency made star labels compulsory for electric storage geysers of up to 200 litres, after a voluntary phase. The stars rate standing loss: the electricity a full, idle geyser uses in 24 hours just to stay hot. The government's formal notice followed in September 2016.",
+      "why": "Better insulation earns more stars, so every geyser sold now tells buyers how much heat it leaks.",
+      "box": "energy",
+      "sources": [
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "2023",
+      "era": "clean",
+      "art": "earth",
+      "title": "560 gigawatts of sunshine",
+      "who": "IEA Solar Heating and Cooling Programme",
+      "where": "Worldwide",
+      "country": "Worldwide",
+      "text": "Solar Heat Worldwide counted about 560 GWth of solar thermal collectors working at the end of 2023, around 800 million square metres. China has far more than any other country, and India's market grew by 27% that year.",
+      "why": "Solar water heaters quietly supply more heat than most people realise.",
+      "box": "energy",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": 2024,
+      "date": "30 April 2024",
+      "era": "clean",
+      "art": "plug",
+      "title": "Heat pumps for most electric tanks",
+      "who": "U.S. Department of Energy",
+      "where": "Washington, D.C., USA",
+      "country": "United States",
+      "text": "The United States finalised new efficiency rules for home water heaters, due to apply to heaters made from 2029. The department expected more than half of new electric storage heaters to use heat pumps, up from about 3%.",
+      "why": "It marks a shift from heating water with a simple hot coil to moving heat from the air.",
+      "box": "energy",
+      "sources": [
+        37
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Public bath with drains and a waterproof pool",
+      "value": "c. 2500 BCE",
+      "who": "Mohenjo-daro, Indus Valley"
+    },
+    {
+      "label": "Instant gas water heater for homes (the ‘geyser’)",
+      "value": "1868",
+      "who": "Benjamin Waddy Maughan, England"
+    },
+    {
+      "label": "Automatic storage-tank gas water heater",
+      "value": "1889",
+      "who": "Edwin Ruud, USA"
+    },
+    {
+      "label": "Commercial solar water heater",
+      "value": "1891",
+      "who": "Clarence Kemp, USA"
+    },
+    {
+      "label": "Nickel-chromium heating wire",
+      "value": "1906",
+      "who": "Albert Marsh, USA"
+    },
+    {
+      "label": "Glass-lined water heater",
+      "value": "1936",
+      "who": "A. O. Smith, USA"
+    },
+    {
+      "label": "Home CO₂ heat pump water heater",
+      "value": "2001",
+      "who": "EcoCute, Japan"
+    }
+  ],
+  "people": [
+    {
+      "name": "Sergius Orata",
+      "life": "active c. 95 BCE",
+      "role": "Businessman and inventor",
+      "from": "Roman Republic",
+      "note": "Credited by Vitruvius with the hypocaust and famous for heated ‘hanging baths’."
+    },
+    {
+      "name": "Humphry Davy",
+      "life": "1778 – 1829",
+      "role": "Chemist",
+      "from": "England",
+      "note": "Showed that a sacrificial metal can stop another from corroding, the idea behind the anode rod."
+    },
+    {
+      "name": "Benjamin Waddy Maughan",
+      "life": "active 1860s",
+      "role": "Painter and inventor",
+      "from": "England",
+      "note": "Invented the gas geyser in 1868 and gave the water heater its name."
+    },
+    {
+      "name": "Edwin Ruud",
+      "life": "1854 – 1932",
+      "role": "Mechanical engineer",
+      "from": "Norway and USA",
+      "note": "Built the automatic storage gas water heater and founded Ruud Manufacturing."
+    },
+    {
+      "name": "Clarence Kemp",
+      "life": "active 1880s – 1890s",
+      "role": "Inventor and manufacturer",
+      "from": "USA",
+      "note": "Patented the Climax, the first commercial solar water heater."
+    },
+    {
+      "name": "Hugo Junkers",
+      "life": "1859 – 1935",
+      "role": "Engineer",
+      "from": "Germany",
+      "note": "Turned a gas-measuring calorimeter into gas water heaters, before he became famous for metal aeroplanes."
+    },
+    {
+      "name": "William J. Bailey",
+      "life": "active 1900s – 1910s",
+      "role": "Engineer",
+      "from": "USA",
+      "note": "Split the solar heater into a roof collector and an insulated tank."
+    },
+    {
+      "name": "Ida Forbes",
+      "life": "active 1910s",
+      "role": "Inventor",
+      "from": "USA",
+      "note": "Patented an electric water heater with an automatic thermostat in 1917."
+    },
+    {
+      "name": "Theodor Stiebel",
+      "life": "c. 1894 – 1960",
+      "role": "Engineer and founder of Stiebel Eltron",
+      "from": "Germany",
+      "note": "Made coil immersion heaters and early electric instant water heaters."
+    },
+    {
+      "name": "Levi Yissar",
+      "life": "20th century",
+      "role": "Engineer",
+      "from": "Israel",
+      "note": "Built Israel's first solar water heater prototype and founded NerYah in 1953."
+    },
+    {
+      "name": "James Husbands",
+      "life": "20th – 21st century",
+      "role": "Entrepreneur",
+      "from": "Barbados",
+      "note": "Founded Solar Dynamics, the first solar water heater company in Barbados."
+    }
+  ],
+  "series": [
+    {
+      "id": "solarthermal",
+      "title": "Solar water heating collectors in use around the world",
+      "unit": "GWth",
+      "log": false,
+      "after": "clean",
+      "caption": "Global solar thermal capacity in operation, as reported in different editions of the IEA SHC Solar Heat Worldwide report. Country coverage changed between editions, so the line shows the trend, not exact yearly growth.",
+      "points": [
+        {
+          "year": 2000,
+          "value": 62,
+          "label": "Solar Heat Worldwide 2024 edition: 62 GWth (89 million m²)"
+        },
+        {
+          "year": 2009,
+          "value": 172.4,
+          "label": "Solar Heat Worldwide 2011 edition: 172.4 GWth (246.2 million m²)"
+        },
+        {
+          "year": 2014,
+          "value": 410.2,
+          "label": "Solar Heat Worldwide 2016 edition: 410.2 GWth (586 million m²)"
+        },
+        {
+          "year": 2019,
+          "value": 479,
+          "label": "Solar Heat Worldwide 2020 edition: 479 GWth"
+        },
+        {
+          "year": 2023,
+          "value": 560,
+          "label": "Solar Heat Worldwide 2024 edition: 560 GWth (800 million m²)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "The word ‘geyser’ comes from Geysir, a gushing hot spring in Iceland. In British English it is often said to rhyme with ‘geezer’.",
+    "By 1897, about a third of the homes in Pasadena, California, heated their water with Clarence Kemp's Climax solar heater.",
+    "By 1941, over half the people of Miami heated their water with the sun.",
+    "An Indian geyser's star rating measures standing loss: how much electricity a full geyser uses in 24 hours just to stay hot when no one uses any water.",
+    "At the end of 2023, the world's solar water heating collectors covered around 800 million square metres."
+  ],
+  "sources": [
+    {
+      "title": "Water heating",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Water_heating"
+    },
+    {
+      "title": "Gas geyser, original, invented by B. W. Maughan, 1868",
+      "publisher": "Science Museum Group Collection",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co48556/gas-geyser"
+    },
+    {
+      "title": "Gas geyser by Maughan's Patent Geyser Co. Ltd.",
+      "publisher": "Science Museum Group Collection",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co48497/gas-geyser-by-maughans-patent-geyser-co-ltd-c"
+    },
+    {
+      "title": "Geezers and geysers",
+      "publisher": "Grammarphobia",
+      "url": "https://grammarphobia.com/blog/2018/04/geezer-geyser.html"
+    },
+    {
+      "title": "Edwin Ruud",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Edwin_Ruud"
+    },
+    {
+      "title": "US Patent 443,797: Water-heater (Edwin Ruud, 1890)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US443797A/en"
+    },
+    {
+      "title": "US Patent 1,251,210: Electrical water-heater (Ida R. Forbes, 1917)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US1251210A/en"
+    },
+    {
+      "title": "Hypocaust",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hypocaust"
+    },
+    {
+      "title": "Balneae (Smith's Dictionary of Greek and Roman Antiquities, 1875)",
+      "publisher": "LacusCurtius, University of Chicago",
+      "url": "http://penelope.uchicago.edu/Thayer/e/roman/texts/secondary/smigra*/balneae.html"
+    },
+    {
+      "title": "Sergius Orata",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sergius_Orata"
+    },
+    {
+      "title": "Great Bath, Mohenjo-daro",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Great_Bath,_Mohenjo-daro"
+    },
+    {
+      "title": "Hugo Junkers",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hugo_Junkers"
+    },
+    {
+      "title": "Nichrome",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nichrome"
+    },
+    {
+      "title": "History",
+      "publisher": "Stiebel Eltron",
+      "url": "https://www.stiebel-eltron.com/en/home/company/about-stiebel-eltron/history.html"
+    },
+    {
+      "title": "Stiebel Eltron",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stiebel_Eltron"
+    },
+    {
+      "title": "A. O. Smith",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/A._O._Smith"
+    },
+    {
+      "title": "Cathodic protection",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cathodic_protection"
+    },
+    {
+      "title": "Galvanic anode",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Galvanic_anode"
+    },
+    {
+      "title": "US Patent 451,384: Apparatus for utilizing the sun's rays for heating water (Clarence M. Kemp, 1891)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US451384A/en"
+    },
+    {
+      "title": "Clarence Kemp",
+      "publisher": "National Inventors Hall of Fame",
+      "url": "https://www.invent.org/inductees/clarence-kemp"
+    },
+    {
+      "title": "The Old Solar Water Heater",
+      "publisher": "Invention & Technology Magazine",
+      "url": "https://www.inventionandtech.com/node/86415"
+    },
+    {
+      "title": "Solar water heating",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Solar_water_heating"
+    },
+    {
+      "title": "Levi Yissar",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Levi_Yissar"
+    },
+    {
+      "title": "Solar Dynamics",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Solar_Dynamics"
+    },
+    {
+      "title": "Hot Water Time Machine: The Cool History of Heat Pump Water Heaters",
+      "publisher": "New Buildings Institute",
+      "url": "https://newbuildings.org/hot-water-time-machine-the-cool-history-of-heat-pump-water-heaters/"
+    },
+    {
+      "title": "An Inside Story Behind the Advent of ‘Eco Cute’ CO2 Heat Pump Water Heater for Residential Use",
+      "publisher": "Heat Pumping Technologies (IEA HPT TCP)",
+      "url": "https://heatpumpingtechnologies.org/publications/an-inside-story-behind-the-advent-of-eco-cute-co2-heat-pump-water-heater-for-residential-use/"
+    },
+    {
+      "title": "Technology and Market Development of CO2 Heat Pump Water Heaters (ECO CUTE) in Japan",
+      "publisher": "Heat Pumping Technologies (IEA HPT TCP)",
+      "url": "https://heatpumpingtechnologies.org/publications/technology-and-market-development-ofco2-heat-pump-water-heaterseco-cute-in-japan/"
+    },
+    {
+      "title": "Solar Heat Worldwide, Edition 2024",
+      "publisher": "IEA Solar Heating and Cooling Programme",
+      "url": "https://www.iea-shc.org/Data/Sites/1/publications/Solar-Heat-Worldwide-2024.pdf"
+    },
+    {
+      "title": "Solar Heat Worldwide, Edition 2016",
+      "publisher": "IEA Solar Heating and Cooling Programme",
+      "url": "https://www.iea-shc.org/data/sites/1/publications/Solar-Heat-Worldwide-2016.pdf"
+    },
+    {
+      "title": "Solar Heat Worldwide, Edition 2011",
+      "publisher": "IEA Solar Heating and Cooling Programme",
+      "url": "https://www.iea-shc.org/Data/Sites/1/publications/Solar_Heat_Worldwide-2011.pdf"
+    },
+    {
+      "title": "Solar Heat Worldwide, Edition 2020",
+      "publisher": "IEA Solar Heating and Cooling Programme",
+      "url": "https://www.iea-shc.org/Data/Sites/1/publications/Solar-Heat-Worldwide-2020.pdf"
+    },
+    {
+      "title": "25 Years of Different Subsidies in India: an Overview",
+      "publisher": "Solarthermalworld",
+      "url": "https://solarthermalworld.org/news/25-years-different-subsidies-india-overview/"
+    },
+    {
+      "title": "Successful solar energy bylaw in Bengaluru, India",
+      "publisher": "Solarthermalworld",
+      "url": "https://solarthermalworld.org/news/successful-solar-energy-bylaw-bengaluru-india/"
+    },
+    {
+      "title": "Schedule 10: Stationary storage type electric water heaters",
+      "publisher": "Bureau of Energy Efficiency, Government of India",
+      "url": "https://www.beestarlabel.com/Content/Files/Schedule_10.pdf"
+    },
+    {
+      "title": "Electric water heater (geyser): notifications and regulations",
+      "publisher": "Bureau of Energy Efficiency, Government of India",
+      "url": "https://www.beestarlabel.com/Content/Files/GeyserNote.pdf"
+    },
+    {
+      "title": "BEE Star Label",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/BEE_Star_Label"
+    },
+    {
+      "title": "Gas geyser syndrome: An important preventable cause of disabling neurological events (Correia, Agrawal and Ranjan, 2013)",
+      "publisher": "Annals of Indian Academy of Neurology",
+      "url": "https://journals.lww.com/annalsofian/fulltext/2013/16020/gas_geyser_syndrome__an_important_preventable.26.aspx"
+    },
+    {
+      "title": "DOE Finalizes Efficiency Standards for Water Heaters to Save Americans Over $7 Billion on Household Utility Bills Annually",
+      "publisher": "U.S. Department of Energy",
+      "url": "https://www.energy.gov/articles/doe-finalizes-efficiency-standards-water-heaters-save-americans-over-7-billion-household"
+    },
+    {
+      "title": "Ariston Group",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ariston_Group"
+    },
+    {
+      "title": "Barbados’ James Husbands is CARICOM Energy Month Awardee",
+      "publisher": "Caribbean Centre for Renewable Energy and Energy Efficiency (CCREEE)",
+      "url": "https://www.ccreee.org/news/caricom-energy-month-awardee/"
+    }
+  ]
+}
